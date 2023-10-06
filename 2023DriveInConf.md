@@ -1,7 +1,7 @@
 # Drive-in Conf Lite: The AI
 [event site](https://wearecommunity.io/events/BmykDTUjFA)
 
-[Build Your Co-Pilot Presentation](https://github.com/alxayo/talks/blob/main/slides/2023-buildYourCoPilot.pdf)
+
 
 ## Code and Demos
 - [Application Code and Architecture](https://github.com/Azure/Vector-Search-AI-Assistant/tree/cognitive-search-vector)
@@ -19,4 +19,4 @@
 - [What is Semantic Kernel?](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 
 ## Session Slides
-To be added ...
+-[Build Your Co-Pilot Presentation](https://github.com/alxayo/talks/blob/main/slides/2023-buildYourCoPilot.pdf)
